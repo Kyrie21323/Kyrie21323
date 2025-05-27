@@ -20,7 +20,7 @@ Whether it’s analyzing how influencers are perceived online, detecting ineffic
 🎭 **[vibeCHECK](https://github.com/Kyrie21323/VibeCheck-Backend)**  
 A sentiment-based social voting web app that lets users rate influencers based on behavior across multiple platforms (e.g., TMZ, YouTube).  
 
-🖱️ **[SenseFit](https://github.com/Kyrie21323/SenseFit)** *(WIP)*  
+🖱️ **[SenseFit](https://github.com/Kyrie21323/Sense_Fit.git)**  
 A desktop tool that tracks and analyzes cursor movement to suggest ergonomic adjustments and prevent wrist strain for long-term computer users.
 
 📊 **[CharityBuzz](https://github.com/Kyrie21323/CharityBuzz)**  
