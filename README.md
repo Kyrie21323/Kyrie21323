@@ -1,48 +1,39 @@
-# 👋 Hi! I'm Kyrie Park
+# 👋 Hi! I'm Kyrie Park  
 
-🎓 I'm a Computer Science and Interactive Media double major at NYU Abu Dhabi.  
-🔍 I build creative tools, games, and systems that explore the intersections of **technology, emotion, and storytelling**.
+🎓 CS & Interactive Media double major @ NYU Abu Dhabi  
+💡 Exploring the intersection of **data, vision, and interaction** through robust software engineering.  
 
-Whether it’s analyzing how influencers are perceived online, detecting inefficient cursor behavior, or crafting ethical strategy games set inside the human body, I enjoy designing systems that reflect how we think, feel, and interact.
-
----
-
-## 💻 Languages & Tools
-
-- **Languages:** Python, Java, C, JavaScript, SQL, HTML/CSS  
-- **Frameworks & Libraries:** FastAPI, Django, RESTful APIs, React, PyQt5, NumPy, Pandas, Selenium, Processing, GameMaker Studio 2, Android Studio  
-- **Tools & Platforms:** Git, Docker, MySQL, Redis, SQLite, Google Cloud Platform (GCP)
+I build **scalable systems, computer vision pipelines, and data-driven tools** that push beyond “working code” toward **performance, reliability, and insight**. My projects often start from creative ideas, but they’re grounded in **algorithms, optimization, and experimentation** — whether that’s aligning 10,000 images with FFT-based ROI matching, simulating motion for ergonomic analysis, or designing game systems with ethical AI trade-offs.  
 
 ---
 
-## 🔧 Featured Projects
+## 💻 Languages & Tools  
+**Languages:** Python, Java, C, JavaScript, SQL, HTML/CSS  
+**Frameworks & Libraries:** FastAPI, Django, RESTful APIs, React, PyQt5, NumPy, Pandas, Selenium, Processing, GameMaker Studio 2, Android Studio  
+**Tools & Platforms:** Git, Docker, MySQL, Redis, SQLite, Google Cloud Platform (GCP)  
 
-🖱️ **[SenseFit](https://github.com/Kyrie21323/Sense_Fit.git)**  
-A desktop tool that tracks and analyzes cursor movement to suggest ergonomic adjustments and prevent wrist strain for long-term computer users.
+---
 
-🎭 **[vibeCHECK](https://github.com/Kyrie21323/VibeCheck-Backend)**  
+## 🔧 Featured Projects  
+🖱️ **SenseFit**  
+A desktop tool that tracks and analyzes cursor movement to suggest ergonomic adjustments and prevent wrist strain for long-term computer users.  
+
+🎭 **vibeCHECK**  
 A sentiment-based social voting web app that lets users rate influencers based on behavior across multiple platforms (e.g., TMZ, YouTube).  
 
-📊 **[CharityBuzz](https://github.com/Kyrie21323/CharityBuzz)**  
-A data-driven analysis tool that explores how media coverage correlates with charity campaign success using web scraping, fuzzy matching, and Pandas-based preprocessing.
+📊 **CharityBuzz**  
+A data-driven analysis tool that explores how media coverage correlates with charity campaign success using web scraping, fuzzy matching, and Pandas-based preprocessing.  
 
 ---
 
-## 🌱 I’m Currently Exploring
-
-- 🧱 Backend system architecture and scalable API design using FastAPI and Django  
-- 🗃️ Database design, configuration, and optimization (MySQL, Redis, SQLite)  
-- 🧑‍💻 Writing clean, modular Python code with a focus on performance and maintainability  
-- 🔄 Building efficient ETL pipelines and data-driven systems
+## 🌱 I’m Currently Exploring  
+📷 **Computer Vision** — feature detection, ROI alignment, image similarity (ORB, FFT, phase correlation)  
+🤖 **Machine Learning** — applying PCA, t-SNE, and clustering to analyze patterns in image and behavioral data  
+🧱 **Backend Architecture** — scalable FastAPI/Django services with optimized relational + in-memory databases  
+🔄 **ETL & Data Pipelines** — preprocessing, anomaly detection, and large-scale data cleaning workflows  
 
 ---
 
-## 📫 Let’s Connect!
-
-- [LinkedIn](https://www.linkedin.com/in/kyrie-park/)  
+## 📫 Let’s Connect!  
+- [LinkedIn](#)  
 - ✉️ kp2733@nyu.edu  
-- GitHub: You're already here! Browse my repos and reach out to collaborate or chat about creative tech.
-
----
-
-> “I believe interactive systems should not just function — they should *feel.*”
