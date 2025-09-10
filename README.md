@@ -35,5 +35,5 @@ A data-driven analysis tool that explores how media coverage correlates with cha
 ---
 
 ## 📫 Let’s Connect!  
-- [LinkedIn](#)  
+- [LinkedIn](www.linkedin.com/in/kyrie-park)  
 - ✉️ kp2733@nyu.edu  
