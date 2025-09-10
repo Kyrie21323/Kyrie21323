@@ -15,7 +15,7 @@ I build **scalable systems, computer vision pipelines, and data-driven tools** t
 ---
 
 ## 🔧 Featured Projects  
-🖱️ [**SenseFit**](https://github.com/Kyrie21323/SenseFit)  
+🖱️ [**SenseFit**]([https://github.com/Kyrie21323/SenseFit](https://github.com/Kyrie21323/Sense_Fit.git))  
 A desktop tool that tracks and analyzes cursor movement to suggest ergonomic adjustments and prevent wrist strain for long-term computer users.  
 
 🎭 [**vibeCHECK**](https://github.com/Kyrie21323/VibeCheck-Backend)  
