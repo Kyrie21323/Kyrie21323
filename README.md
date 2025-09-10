@@ -9,19 +9,19 @@ I build **scalable systems, computer vision pipelines, and data-driven tools** t
 
 ## 💻 Languages & Tools  
 **Languages:** Python, Java, C, JavaScript, SQL, HTML/CSS  
-**Frameworks & Libraries:** FastAPI, Django, RESTful APIs, React, PyQt5, NumPy, Pandas, Selenium, Processing, GameMaker Studio 2, Android Studio  
+**Frameworks & Libraries:** Open CV, FastAPI, Django, RESTful APIs, React, PyQt5, NumPy, Pandas, Selenium, Processing, GameMaker Studio 2, Android Studio
 **Tools & Platforms:** Git, Docker, MySQL, Redis, SQLite, Google Cloud Platform (GCP)  
 
 ---
 
 ## 🔧 Featured Projects  
-🖱️ **SenseFit**  
+🖱️ [**SenseFit**](https://github.com/Kyrie21323/SenseFit)  
 A desktop tool that tracks and analyzes cursor movement to suggest ergonomic adjustments and prevent wrist strain for long-term computer users.  
 
-🎭 **vibeCHECK**  
+🎭 [**vibeCHECK**](https://github.com/Kyrie21323/VibeCheck-Backend)  
 A sentiment-based social voting web app that lets users rate influencers based on behavior across multiple platforms (e.g., TMZ, YouTube).  
 
-📊 **CharityBuzz**  
+📊 [**CharityBuzz**](https://github.com/Kyrie21323/CharityBuzz)  
 A data-driven analysis tool that explores how media coverage correlates with charity campaign success using web scraping, fuzzy matching, and Pandas-based preprocessing.  
 
 ---
