@@ -9,12 +9,15 @@ I build **scalable systems, computer vision pipelines, and data-driven tools** t
 
 ## 💻 Languages & Tools  
 **Languages:** Python, Java, C, JavaScript, SQL, HTML/CSS  
-**Frameworks & Libraries:** Open CV, FastAPI, Django, RESTful APIs, React, PyQt5, NumPy, Pandas, Selenium, Processing, GameMaker Studio 2, Android Studio
+**Frameworks & Libraries:** OpenCV, FastAPI, Django, RESTful APIs, React, PyQt5, NumPy, Pandas, Selenium, Processing, GameMaker Studio 2, Android Studio  
 **Tools & Platforms:** Git, Docker, MySQL, Redis, SQLite, Google Cloud Platform (GCP)  
 
 ---
 
 ## 🔧 Featured Projects  
+📱 [**NFC Networking Platform**](https://github.com/Kyrie21323/NFC-Networking-Platform)  
+A Flask-based event networking system integrating NFC technology and NLP-driven attendee matching. It bridges digital and physical interactions, helping users form genuine, interest-aligned connections through smart event management, secure authentication, and intelligent profile recommendations.  
+
 🖱️ [**SenseFit**](https://github.com/Kyrie21323/Sense_Fit.git)  
 A desktop tool that tracks and analyzes cursor movement to suggest ergonomic adjustments and prevent wrist strain for long-term computer users.  
 
@@ -31,6 +34,7 @@ A data-driven analysis tool that explores how media coverage correlates with cha
 🤖 **Machine Learning** — applying PCA, t-SNE, and clustering to analyze patterns in image and behavioral data  
 🧱 **Backend Architecture** — scalable FastAPI/Django services with optimized relational + in-memory databases  
 🔄 **ETL & Data Pipelines** — preprocessing, anomaly detection, and large-scale data cleaning workflows  
+🗣️ **Natural Language Processing (NLP)** — sentence embedding, keyword extraction, and transformer-based semantic similarity for intelligent user matching and text-driven insights  
 
 ---
 
