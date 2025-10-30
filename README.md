@@ -16,7 +16,7 @@ I build **scalable systems, computer vision pipelines, and data-driven tools** t
 
 ## 🔧 Featured Projects  
 📱 [**NFC Networking Platform**](https://github.com/Kyrie21323/NFC-Networking-Platform)  
-A Flask-based event networking system integrating NFC technology and NLP-driven attendee matching. It bridges digital and physical interactions, helping users form genuine, interest-aligned connections through smart event management, secure authentication, and intelligent profile recommendations.  
+An event networking platform based on Flask, integrating NFC and NLP matching to bridge digital and physical interactions through smart event management and secure attendee connections.
 
 🖱️ [**SenseFit**](https://github.com/Kyrie21323/Sense_Fit.git)  
 A desktop tool that tracks and analyzes cursor movement to suggest ergonomic adjustments and prevent wrist strain for long-term computer users.  
