@@ -15,7 +15,7 @@ I build **scalable systems, computer vision pipelines, and data-driven tools** t
 ---
 
 ## 🔧 Featured Projects  
-📱 [**NFC Networking Platform**](https://github.com/Kyrie21323/Capstone.git)
+📱 [**NFC Networking Platform**](https://github.com/Kyrie21323/Capstone.git) (WIP)  
 An event networking platform based on Flask, integrating NFC and NLP matching to bridge digital and physical interactions through smart event management and secure attendee connections.
 
 🖱️ [**SenseFit**](https://github.com/Kyrie21323/Sense_Fit.git)  
@@ -24,8 +24,7 @@ A desktop tool that tracks and analyzes cursor movement to suggest ergonomic adj
 🎭 [**vibeCHECK**](https://github.com/Kyrie21323/VibeCheck-Backend)  
 A sentiment-based social voting web app that lets users rate influencers based on behavior across multiple platforms (e.g., TMZ, YouTube).
 
-🖥️ [**MicroShell-OS**](https://github.com/Kyrie21323/MicroShell-OS.git)
-
+🖥️ [**MicroShell-OS**](https://github.com/Kyrie21323/MicroShell-OS.git)  
 A custom Unix-style shell and networked job scheduler built in C, demonstrating OS-level process control, socket programming, and multi-threaded job management.
 
 📊 [**CharityBuzz**](https://github.com/Kyrie21323/CharityBuzz)  
