@@ -30,6 +30,9 @@ A sentiment-based social voting web app that lets users rate influencers based o
 🖥️ [**MicroShell-OS**](https://github.com/Kyrie21323/MicroShell-OS.git)  
 A custom Unix-style shell and networked job scheduler built in C, demonstrating OS-level process control, socket programming, and multi-threaded job management.
 
+🏬 [**Retail Management System**](https://github.com/Kyrie21323/Retail-Management-System.git)  
+A Django-based retail management system designed to demonstrate real-world software architecture principles such as resilience, observability, concurrency control, and quality-attribute-driven design.
+
 📊 [**CharityBuzz**](https://github.com/Kyrie21323/CharityBuzz)  
 A data-driven analysis tool that explores how media coverage correlates with charity campaign success using web scraping, fuzzy matching, and Pandas-based preprocessing.  
 
