@@ -21,6 +21,9 @@ An event networking platform based on Flask, integrating NFC and NLP matching to
 🖱️ [**SenseFit**](https://github.com/Kyrie21323/Sense_Fit.git)  
 A desktop tool that tracks and analyzes cursor movement to suggest ergonomic adjustments and prevent wrist strain for long-term computer users.
 
+🔤 [**Arabic–Latin Translit Diagnostics**](https://github.com/Kyrie21323/ACL-bidirectional-transliteration.git)  
+A multimodel framework (rule-based, fast_align, and LLM) that analyzes information loss in bidirectional transliteration between Arabic and Latin scripts.
+
 🎭 [**vibeCHECK**](https://github.com/Kyrie21323/VibeCheck-Backend)  
 A sentiment-based social voting web app that lets users rate influencers based on behavior across multiple platforms (e.g., TMZ, YouTube).
 
