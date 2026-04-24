@@ -15,7 +15,7 @@ I build **scalable systems, computer vision pipelines, and data-driven tools** t
 ---
 
 ## 🔧 Featured Projects  
-📱 [**NFC Networking Platform**](https://github.com/Kyrie21323/Capstone.git)  
+📱 [**Prophere**](https://github.com/Kyrie21323/Capstone.git)  
 An event networking platform based on Flask, integrating NFC and NLP matching to bridge digital and physical interactions through smart event management and secure attendee connections.
 
 🖱️ [**SenseFit**](https://github.com/Kyrie21323/Sense_Fit.git)  
