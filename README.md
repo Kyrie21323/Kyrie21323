@@ -15,7 +15,7 @@ I build **scalable systems, computer vision pipelines, and data-driven tools** t
 ---
 
 ## 🔧 Featured Projects  
-🌿 [**Plant Disease Dataset Shift Analysis**](https://github.com/Kyrie21323/Plant-Disease-Classification)  
+🌿 [**Plant Disease Dataset Shift Analysis**](https://github.com/Kyrie21323/Plant-Disease-Dataset-Shift-Analysis.git)  
 A PyTorch-based image classification study comparing BaselineCNN and ResNet-18 across PlantVillage and PlantDoc to evaluate real-world generalization under dataset shift.
 
 📱 [**Prophere**](https://github.com/Kyrie21323/Capstone.git)  
@@ -24,7 +24,7 @@ A Flask-based conference networking platform that matches attendees by shared in
 🖱️ [**SenseFit**](https://github.com/Kyrie21323/Sense_Fit.git)  
 A desktop tool that tracks and analyzes cursor movement to suggest ergonomic adjustments and prevent wrist strain for long-term computer users.
 
-🎭 [**vibeCHECK**](https://github.com/Kyrie21323/VibeCheck-Backend)  
+🎭 [**vibeCHECK**](https://github.com/Kyrie21323/VibeCheck-Backend.git)  
 A sentiment-based social voting web app that lets users rate influencers based on behavior across multiple platforms (e.g., TMZ, YouTube).
 
 🔤 [**Arabic–Latin Translit Diagnostics**](https://github.com/Kyrie21323/ACL-bidirectional-transliteration.git)  
@@ -36,7 +36,7 @@ A custom Unix-style shell and networked job scheduler built in C, demonstrating 
 🏬 [**Retail Management System**](https://github.com/Kyrie21323/Retail-Management-System.git)  
 A Django-based retail management system designed to demonstrate real-world software architecture principles such as resilience, observability, concurrency control, and quality-attribute-driven design.
 
-📊 [**CharityBuzz**](https://github.com/Kyrie21323/CharityBuzz)  
+📊 [**CharityBuzz**](https://github.com/Kyrie21323/CharityBuzz.git)  
 A data-driven analysis tool that explores how media coverage correlates with charity campaign success using web scraping, fuzzy matching, and Pandas-based preprocessing.  
 
 ---
