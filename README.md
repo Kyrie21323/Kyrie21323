@@ -15,6 +15,9 @@ I build **scalable systems, computer vision pipelines, and data-driven tools** t
 ---
 
 ## 🔧 Featured Projects  
+🌿 [**Plant Disease Classification under Dataset Shift**](https://github.com/Kyrie21323/Plant-Disease-Classification)  
+A PyTorch-based image classification study comparing BaselineCNN and ResNet-18 across PlantVillage and PlantDoc to evaluate real-world generalization under dataset shift.
+
 📱 [**Prophere**](https://github.com/Kyrie21323/Capstone.git)  
 A Flask-based conference networking platform that matches attendees by shared interests, schedules short meetings, and uses NFC-based check-ins to generate personalized conversation prompts.
 
