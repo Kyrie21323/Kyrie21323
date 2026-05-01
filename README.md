@@ -8,9 +8,9 @@ I build **scalable systems, computer vision pipelines, and data-driven tools** t
 ---
 
 ## 💻 Languages & Tools  
-**Languages:** Python, Java, C, JavaScript, SQL, HTML/CSS  
-**Frameworks & Libraries:** OpenCV, FastAPI, Django, RESTful APIs, React, PyQt5, NumPy, Pandas, Selenium, Processing, GameMaker Studio 2, Android Studio  
-**Tools & Platforms:** Git, Docker, MySQL, Redis, SQLite, Google Cloud Platform (GCP)  
+**Languages:** C, HTML/CSS, Java, JavaScript, Python, SQL  
+**Frameworks & Libraries:** Django, Flask, Matplotlib, NumPy, OpenCV, Pandas, Processing, PyQt5, PyTorch, Qiskit, React, reportlab, scikit-learn, SciPy, Selenium, Sentence Transformers, SQLAlchemy, torchvision  
+**Tools & Platforms:** Android Studio, Docker, GameMaker Studio 2, Git, Google Colab, Jupyter Notebook, MySQL, SQLite  
 
 ---
 
