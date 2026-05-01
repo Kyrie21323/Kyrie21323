@@ -24,11 +24,11 @@ A Flask-based conference networking platform that matches attendees by shared in
 🖱️ [**SenseFit**](https://github.com/Kyrie21323/Sense_Fit.git)  
 A desktop tool that tracks and analyzes cursor movement to suggest ergonomic adjustments and prevent wrist strain for long-term computer users.
 
-🔤 [**Arabic–Latin Translit Diagnostics**](https://github.com/Kyrie21323/ACL-bidirectional-transliteration.git)  
-A multimodel framework (rule-based, fast_align, and LLM) that analyzes information loss in bidirectional transliteration between Arabic and Latin scripts.
-
 🎭 [**vibeCHECK**](https://github.com/Kyrie21323/VibeCheck-Backend)  
 A sentiment-based social voting web app that lets users rate influencers based on behavior across multiple platforms (e.g., TMZ, YouTube).
+
+🔤 [**Arabic–Latin Translit Diagnostics**](https://github.com/Kyrie21323/ACL-bidirectional-transliteration.git)  
+A multimodel framework (rule-based, fast_align, and LLM) that analyzes information loss in bidirectional transliteration between Arabic and Latin scripts.
 
 🖥️ [**MicroShell-OS**](https://github.com/Kyrie21323/MicroShell-OS.git)  
 A custom Unix-style shell and networked job scheduler built in C, demonstrating OS-level process control, socket programming, and multi-threaded job management.
@@ -41,12 +41,12 @@ A data-driven analysis tool that explores how media coverage correlates with cha
 
 ---
 
-## 🌱 I’m Currently Exploring  
-📷 **Computer Vision** — feature detection, ROI alignment, image similarity (ORB, FFT, phase correlation)  
-🤖 **Machine Learning** — applying PCA, t-SNE, and clustering to analyze patterns in image and behavioral data  
-🧱 **Backend Architecture** — scalable FastAPI/Django services with optimized relational + in-memory databases  
-🔄 **ETL & Data Pipelines** — preprocessing, anomaly detection, and large-scale data cleaning workflows  
-🗣️ **Natural Language Processing (NLP)** — sentence embedding, keyword extraction, and transformer-based semantic similarity for intelligent user matching and text-driven insights  
+## 🌱 Current Technical Focus  
+📷 **Computer Vision & Image Analysis** — ROI alignment, image similarity, frequency-domain methods, and dataset-shift evaluation  
+🤖 **Machine Learning Evaluation** — model comparison, validation strategy, external testing, and generalization analysis  
+🧱 **Backend & System Architecture** — Flask/FastAPI/Django services, relational databases, caching, and reliability-focused design  
+🔄 **Data Pipelines & Experimentation** — preprocessing, feature extraction, anomaly detection, and reproducible analysis workflows  
+🗣️ **NLP & Semantic Matching** — sentence embeddings, keyword extraction, and prompt generation for intelligent user matching  
 
 ---
 
