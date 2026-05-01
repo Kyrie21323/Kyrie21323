@@ -1,9 +1,9 @@
 # 👋 Hi! I'm Kyrie Park  
 
 🎓 CS & Interactive Media double major @ NYU Abu Dhabi  
-💡 Exploring the intersection of **data, vision, and interaction** through robust software engineering.  
+💡 Building reliable software at the intersection of **machine learning, computer vision, backend systems, and human interaction**.  
 
-I build **scalable systems, computer vision pipelines, and data-driven tools** that push beyond “working code” toward **performance, reliability, and insight**. My projects often start from creative ideas, but they’re grounded in **algorithms, optimization, and experimentation** — whether that’s aligning 10,000 images with FFT-based ROI matching, simulating motion for ergonomic analysis, or designing game systems with ethical AI trade-offs.  
+I develop **data-driven tools, computer vision pipelines, and full-stack systems** that go beyond “working code” toward **reliability, evaluation, and real-world usefulness**. My projects combine technical experimentation with user-centered design — from evaluating plant disease models under dataset shift, to aligning 10,000+ industrial images with FFT-based ROI matching, to building NFC-based networking tools for meaningful in-person interaction.
 
 ---
 
